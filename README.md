@@ -1,0 +1,2 @@
+# Reduxx
+about redux
